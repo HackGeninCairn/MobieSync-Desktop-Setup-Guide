@@ -1,0 +1,23 @@
+{
+  "repo": "mobiesync-desktop-setup-guide",
+  "product": "MobieSync Desktop Setup Guide",
+  "kind": "mobile",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "mobile",
+  "topics": [
+    "mobiesync",
+    "phone-to-pc",
+    "photo-transfer",
+    "whatsapp-backup",
+    "cross-os-move",
+    "mobiesync-setup-failed-fix",
+    "how-to-install-mobiesync",
+    "mobiesync-windows",
+    "mobiesync-desktop-2026",
+    "mobiesync-desktop-package"
+  ],
+  "site": "toolix.me"
+}
